@@ -1,0 +1,27 @@
+# Dependências
+node_modules/
+backend/node_modules/
+frontend/node_modules/
+
+# Arquivos de ambiente (segredos)
+.env
+.env.local
+.env.backend
+.env.frontend
+
+# Logs
+*.log
+npm-debug.log*
+
+# Arquivos de build
+dist/
+build/
+*.exe
+
+# IDE
+.vscode/
+.idea/
+
+# Arquivos temporários do Windows
+Thumbs.db
+Desktop.ini
