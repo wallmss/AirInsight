@@ -154,7 +154,9 @@ AirInsight/
 └── README.md
 ```
 🎥 Demonstração
-Um vídeo de demonstração de 3 minutos está disponível [![Vídeo de demonstração do AirInsight](https://img.youtube.com/vi/hVmsIjuFIe8/hqdefault.jpg)](https://youtu.be/hVmsIjuFIe8) . Ele mostra:
+Um vídeo de demonstração de 3 minutos está disponível [![Vídeo de demonstração do AirInsight](https://img.youtube.com/vi/hVmsIjuFIe8/hqdefault.jpg)](https://youtu.be/hVmsIjuFIe8) 
+
+Ele mostra:
 
 Inicialização do backend e primeira coleta de >10.000 voos.
 
@@ -176,6 +178,8 @@ Autores:
 Wallace Miranda Senna da Silva
 
 Beatriz Alves Gava
+
+Henrique de Nadai Salvador
 
 Professor: Gabriel Soares Baptista – Engenharia de Software, 2026.
 
