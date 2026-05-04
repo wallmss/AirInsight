@@ -181,6 +181,3 @@ Beatriz Alves Gava
 
 Henrique de Nadai Salvador
 
-Professor: Gabriel Soares Baptista – Engenharia de Software, 2026.
-
----
